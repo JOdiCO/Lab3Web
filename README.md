@@ -1,4 +1,4 @@
-# Praktikum 3 : Pemrograman Web (Membuat List, Table dan Form)
+# Praktikum 3 : Membuat List, Table dan Form
 
 ### Darmawan Jodi Cahyo [311910457]
 ### TI.19.A.2
