@@ -25,8 +25,12 @@ Menggabungkan sel data dengan atribut rowspan dan colspan
 
 ## Langkah 6
 Membuat file html baru dan menambahkan kode untuk membuat tampilan form sederhana
-![6](https://user-images.githubusercontent.com/56252129/114560988-5da4ac80-9c97-11eb-820d-9d8595885528.png)
+![6 6](https://user-images.githubusercontent.com/56252129/114582142-86826d00-9caa-11eb-96e2-fd29079bc148.png)
 
 ## Langkah 7 
 Menambahkan style CSS Internal untuk memperbagus tampilan form
-![7](https://user-images.githubusercontent.com/56252129/114561031-685f4180-9c97-11eb-8338-304a3371659e.png)
+![7 7](https://user-images.githubusercontent.com/56252129/114582206-9437f280-9caa-11eb-96a7-627c41983881.png)
+
+# Pertanyaan dan Tugas
+### 1. Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection. 
+![Screenshot (41)](https://user-images.githubusercontent.com/56252129/114580745-538ba980-9ca9-11eb-942a-1b1883bfb4d8.png)
